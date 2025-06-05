@@ -28,7 +28,7 @@ Papildus klientiem, sistēma ir paredzēta arī ceļojumu moderatoriem un admini
 ## Tehnoloģijas
 
 - Frontend: `HTML`, `CSS`, `JavaScript`
-- Backend: (piemērs) `PHP` / `Node.js` / `Python (Flask/Django)`
+- Backend: `PHP`
 - Datu bāze: `phpMyAdmin`
 
 
